@@ -1,0 +1,26 @@
+# Ignorar diretórios e arquivos gerados pelo Cargo
+target/
+**/target/
+Cargo.lock
+
+# Arquivos do VS Code e configurações do editor
+.vscode/
+.idea/
+*.iml
+
+# Arquivos de build e temporários
+*.rmeta
+*.rs.bk
+*.swp
+*.swo
+*.bak
+
+# Test output
+/tests/*.log
+/tests/*.out
+
+# Binários compilados
+*.exe
+*.out
+*.o
+*.dSYM/

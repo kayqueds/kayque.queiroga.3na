@@ -1,0 +1,1 @@
+/workspaces/kayque.queiroga.3na/aula1/reverse_string/target/debug/reverse_string: /workspaces/kayque.queiroga.3na/aula1/reverse_string/src/lib.rs /workspaces/kayque.queiroga.3na/aula1/reverse_string/src/main.rs
