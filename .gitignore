@@ -1,5 +1,4 @@
 # Ignorar diretórios e arquivos gerados pelo Cargo
-target/
 **/target/
 Cargo.lock
 
