@@ -19,7 +19,7 @@ mod tests {
 
     #[test]
     fn test_empty_array() {
-        let arr: [i32; 0] = [];
+        let arr: [i32; 0] = [];0,00,=====
         let product = multiply_array(arr.as_ptr(), arr.len());
         assert_eq!(product, 1);
     }
